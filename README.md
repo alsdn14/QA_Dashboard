@@ -3,7 +3,7 @@
 ## 1. 사용 도구 및 기술
 
 * **언어 및 프레임워크** : Python + Streamlit
-* **AI / LLM** : Ollama (로컬 AI 모델), 키워드 기반 문서 검색(BM25)
+* **AI / LLM** : Ollama (로컬 AI 모델), RAG (검색 증강 생성)
 * **외부 API** : GitLab API
 * **데이터 처리** : pandas, pdfplumber
 * **실행 환경** : 로컬 서버 (외부 서버 없이 동작)
