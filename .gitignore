@@ -1,0 +1,28 @@
+# 민감 정보
+.env
+
+# 사용자 데이터 (로컬 저장 파일)
+cheats.json
+group.json
+cheat_notes.md
+home.md
+wiki.md
+commands.md
+table.md
+
+# 빌드 산출물
+dist/
+build/
+*.exe
+*.spec
+__pycache__/
+*.pyc
+*.pyo
+
+# 데이터 파일
+data/
+*.csv
+
+# IDE
+.vscode/
+.idea/
