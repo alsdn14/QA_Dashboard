@@ -9,6 +9,21 @@
 
 ## 미리보기
 
+<details>
+<summary>홈 화면</summary>
+<img src="https://github.com/user-attachments/assets/afee2dff-91c7-4780-b12f-dae9c1c86eb6" width="600" />
+</details>
+
+<details>
+<summary>AI 챗봇 탭</summary>
+<img src="https://github.com/user-attachments/assets/77eb7f1a-b9f4-4342-b634-81c00a456b07" width="600" />
+</details>
+
+<details>
+<summary>QA 도구 탭</summary>
+<img src="https://github.com/user-attachments/assets/c5fd334b-27f1-45d1-a8f1-efe258f2d74c" width="600" />
+</details>
+
 ----
 
 ## 2. 주요 기능
